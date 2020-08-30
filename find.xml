@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '...\anji_mobiletracker.py'" />
+    <option name="defaultScopeName" value="File '...\anji_mobiletracker.py'" />
+    <option name="SEARCH_SCOPE" value="File '...\anji_mobiletracker.py'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
